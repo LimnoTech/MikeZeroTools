@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584041847877.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8398ABE",
+    "lastKnownWriteTime" : 8389754659302220320,
+    "last_content_update" : 1584041847877,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "90D5B43",
+        "caption" : "cfl_stats",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cfl_stats&cache_key=90D5B43",
+        "displayedObservations" : "57",
+        "environment" : "",
+        "object" : "cfl_stats",
+        "preview" : "0",
+        "totalObservations" : "57",
+        "variables" : "6"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

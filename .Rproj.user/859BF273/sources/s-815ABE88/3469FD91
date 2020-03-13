@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584038673634.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3469FD91",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1584038673634,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D27AF4C",
+        "caption" : "cfl_warnings",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cfl_warnings&cache_key=D27AF4C",
+        "displayedObservations" : "23309",
+        "environment" : "",
+        "object" : "cfl_warnings",
+        "preview" : "0",
+        "totalObservations" : "23309",
+        "variables" : "9"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

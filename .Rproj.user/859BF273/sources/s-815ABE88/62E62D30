@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584040002928.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "62E62D30",
+    "lastKnownWriteTime" : 1584042565,
+    "last_content_update" : 1584042565497,
+    "path" : "C:/Users/bcrary/Desktop/Projects/DONRDS/ErrorLogging/R/extract_stats.R",
+    "project_path" : "R/extract_stats.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
