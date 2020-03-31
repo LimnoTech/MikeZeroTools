@@ -1,3 +1,11 @@
+#' Title
+#'
+#' @param cfl_warnings
+#'
+#' @return
+#' @export
+#'
+#' @examples
 extract_CFL_stats <- function(cfl_warnings) {
   df <- cfl_warnings %>%
     group_by(element_number) %>%
