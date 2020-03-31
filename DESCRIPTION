@@ -8,10 +8,6 @@ Authors@R:
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+License: What license it uses
 Encoding: UTF-8
 LazyData: true
-Imports: 
-    stringr,
-    dplyr,
-    magrittr
