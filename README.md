@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of MikeZeroTOols is to ...
+The goal of MikeZeroTools is to ...
 
 ## Installation
 
