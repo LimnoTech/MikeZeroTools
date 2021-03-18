@@ -10,7 +10,7 @@ The goal of MikeZeroTOols is to ...
 
 
 ``` r
-
+devtools::install_github("LimnoTech/MikeZeroTools")
 ```
 
 ## Example
